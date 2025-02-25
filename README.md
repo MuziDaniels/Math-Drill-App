@@ -22,6 +22,11 @@ A interactive educational platform designed to help Grade 5 students in South Af
 6. In your computer copy/cut the project folder(Math-Drill App) and paste it in the _C:\xampp\htdocs_ folder
 7. After successfully doing this, go to your browser and paste this link _http://localhost/Math-Drill%20App/login.php_ make sure XAMPP is running and you have started _Apache_ and _MySQL_
 
+**To Access the admin/teacher side:**
+1. Paste this link on your browser: _http://localhost/Math-Drill%20App/admin.php_ (Always make sure XAMPP is running and you have started _Apache_ and _MySQL_)
+2. Login Details: Username = Teacher
+                  Password = Admin
+
 **Future Improvements**
 Adding more lessons
 Adding teacher and learner engagement platform
